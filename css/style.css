@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Handlee&family=Montserrat&family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;600;700&family=Roboto:ital,wght@0,100;0,300;0,700;0,900;1,300;1,400;1,500;1,700&display=swap");
+
+body {
+  background: #f1f1f1;
+  font-family: "Handlee", cursive;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Playfair Display", serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #22757a;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+p {
+  line-height: 7px;
+}
+.cvbody {
+  background: #e7fcf8;
+  padding: 20px;
+}
+.myimg {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+.persin-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #22757a;
+}
+.name h2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 24px;
+}
+.name p {
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+.adderss {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  margin-top: 30px;
+}
+.email {
+  color: #22757a;
+  font-size: 14px;
+  line-height: 8px;
+}
+.adderss p {
+  color: #22757a;
+  margin-bottom: 10px;
+}
+.high-light {
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.person-address {
+  line-height: 1px;
+}
+.myboder {
+  border-bottom: 2px solid #333f;
+}
+.cvTitle {
+  text-transform: capitalize;
+  align-items: center;
+  margin-top: 25px;
+}
+.simpleborder {
+  border-bottom: 1px solid #333;
+}
+.singe {
+  margin-top: 50px;
+}
